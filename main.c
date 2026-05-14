@@ -18,8 +18,8 @@
 
 /*
  * V2.0
- * Niall O'Keeffe
- * 29/10/2025
+ * Aidan Malone
+ * 29/11/2025
  *
  * FreeRTOS IoT project
  * Connects to Ubidots MQTT broker
