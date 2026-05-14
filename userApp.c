@@ -1,9 +1,3 @@
-/*
- * userApp.c
- *
- *  Created on: Created on: Oct 29, 2025
- *      Author: Niall.OKeeffe@atu.ie
- */
 
 #include "main.h"
 #include "userApp.h"
